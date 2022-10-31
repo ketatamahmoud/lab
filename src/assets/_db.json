@@ -1,0 +1,57 @@
+{
+  "members": [
+    {
+      "id": "1234",
+      "cin": "11100496",
+      "name": "yosr",
+      "creationDate": "5/8/2022",
+      "cv": "lien",
+      "type": "etudiante"
+    },
+    {
+      "id": "7864",
+      "cin": "11117804",
+      "name": "emna",
+      "creationDate": "7/9/2022",
+      "cv": "lien",
+      "type": "etudiante"
+    },
+    {
+      "id": "5799",
+      "cin": "14322049",
+      "name": "ahmed",
+      "creationDate": "20/3/2022",
+      "cv": "lien",
+      "type": "etudiant"
+    }
+  ],
+  "articles": [
+    {
+      "id": "1111",
+      "type": "journal",
+      "titre": "azerty",
+      "lien": "lien1",
+      "date": "1/1/2022",
+      "sourcePdf": "pdf1",
+      "auteur": ""
+    },
+    {
+      "id": "2222",
+      "type": "journal",
+      "titre": "qwerty",
+      "lien": "lien2",
+      "date": "2/2/2022",
+      "sourcePdf": "pdf2",
+      "auteur": ""
+    },
+    {
+      "id": "3333",
+      "type": "journal",
+      "titre": "azerty1",
+      "lien": "lien3",
+      "date": "3/3/2022",
+      "sourcePdf": "pdf3",
+      "auteur": ""
+    }
+  ]
+}

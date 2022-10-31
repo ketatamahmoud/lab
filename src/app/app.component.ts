@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'untitled1';
+  title = 'First';
+  name = 'yosr';
+  agenda = [{date:"17/12", message:"BA"},{date:"18/12", message:"BB"}];
 }
